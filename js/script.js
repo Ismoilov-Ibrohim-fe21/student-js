@@ -1,0 +1,8 @@
+let name = prompt("ismingizni kiriting: ")
+let surname = prompt("familyangizni kiriting: ")
+let age = prompt("yoshingizni kiriting: ")
+let school = prompt("o'qish joyingizni kiriting: ")
+console.log("foydalanuvchi ismi"+" " + name)
+console.log("foydalanuvchi familyasi"+" " + surname)
+console.log("foydalanuvchi yoshi"+" " + age)
+console.log("foydalanuvchi o'qish joyi"+ " " + school)
